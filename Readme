@@ -1,0 +1,33 @@
+# Slammer
+
+⚠️ EXPERIMENTAL HARDWARE DIAGNOSTICS PROJECT
+
+Slammer is a Python-based hardware stress testing utility designed for controlled system stability testing, troubleshooting, and performance validation.
+
+## Purpose
+
+This project was created to help evaluate system behavior under load, including:
+
+- CPU stress behavior
+- System responsiveness
+- Thermal stability
+- Crash/freeze conditions
+- Hardware troubleshooting scenarios
+
+## Intended Use
+
+This tool is intended for personal lab testing, diagnostics, and educational hardware research only.
+
+Do not run stress testing tools on systems you do not own or administer.
+
+## Skills Demonstrated
+
+- Python scripting
+- Hardware diagnostics
+- System monitoring
+- Troubleshooting methodology
+- Test documentation
+
+## Disclaimer
+
+This project is experimental and may cause system instability during testing. Use only in a controlled environment.
